@@ -9,7 +9,7 @@
 # Music Quiz
 ## A quiz based in the model Better Quiz
 
-Music Quiz is a quiz that allows you to practice your music ear. You can listen to intervals, chords etc.
+The quiz app designed for training music ear is an excellent resource for anyone who is interested in improving their musical skills. The app offers a range of quizzes that are designed to help users recognize intervals, chords, and other musical elements by ear. The app is made for people who want to improve their ability to identify different musical components without needing to rely on visual aids or sheet music.
 
 ## Live Demo
 
