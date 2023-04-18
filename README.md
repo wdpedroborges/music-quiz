@@ -1,12 +1,3 @@
-# Music Quiz
-## A quiz based in the model Better Quiz
-
----
-
-Music Quiz is a quiz that allows you to practice your music ear. You can listen to intervals, chords etc.
-
----
-
 ![badge](https://img.shields.io/github/watchers/wdpedroborges/music-quiz?style=social)
 ![badge](https://img.shields.io/github/stars/wdpedroborges/music-quiz?style=social)
 ![badge](https://img.shields.io/github/license/wdpedroborges/music-quiz)
@@ -15,11 +6,14 @@ Music Quiz is a quiz that allows you to practice your music ear. You can listen 
 ![badge](https://img.shields.io/badge/powered%20by-typescript-blue)
 ![badge](https://img.shields.io/badge/powered%20by-sass.js-blue)
 
----
+# Music Quiz
+## A quiz based in the model Better Quiz
+
+Music Quiz is a quiz that allows you to practice your music ear. You can listen to intervals, chords etc.
 
 ## Live Demo
 
-[Click here to see it]((wdpedroborges.github.io/music-quiz))
+wdpedroborges.github.io/music-quiz
 
 ## Features
 
